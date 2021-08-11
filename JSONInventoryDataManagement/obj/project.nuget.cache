@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IoTouHEpNJBmFMb6MJpG/3yYM8Z+Zvg7zf4pAISFk7RBaQff8+kmgep0QCVtls6jt32ZRx0Su6kr7tlGSArxFw==",
+  "dgSpecHash": "DudcAkKytofFUmLGE6jr55cns9PXSqar++eqhQC331a/vBoVDTr8kqAv8VRqVT8tqh5lS/O12AVW2+3r92Q3wQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\source\\repos\\JSONInventoryDataManagement\\JSONInventoryDataManagement\\JSONInventoryDataManagement.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

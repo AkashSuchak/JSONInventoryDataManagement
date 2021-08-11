@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\bin\Debug\netcoreapp3.1\JSONInventoryDataManagement.exe
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\bin\Debug\netcoreapp3.1\JSONInventoryDataManagement.deps.json
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\bin\Debug\netcoreapp3.1\JSONInventoryDataManagement.runtimeconfig.json
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\bin\Debug\netcoreapp3.1\JSONInventoryDataManagement.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\bin\Debug\netcoreapp3.1\JSONInventoryDataManagement.dll
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\bin\Debug\netcoreapp3.1\JSONInventoryDataManagement.pdb
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\obj\Debug\netcoreapp3.1\JSONInventoryDataManagement.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\obj\Debug\netcoreapp3.1\JSONInventoryDataManagement.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\obj\Debug\netcoreapp3.1\JSONInventoryDataManagement.AssemblyInfo.cs
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\obj\Debug\netcoreapp3.1\JSONInventoryDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\obj\Debug\netcoreapp3.1\JSONInventoryDataManagement.csproj.CopyComplete
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\obj\Debug\netcoreapp3.1\JSONInventoryDataManagement.dll
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\obj\Debug\netcoreapp3.1\JSONInventoryDataManagement.pdb
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\obj\Debug\netcoreapp3.1\JSONInventoryDataManagement.genruntimeconfig.cache
+C:\Users\DELL\source\repos\JSONInventoryDataManagement\JSONInventoryDataManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
